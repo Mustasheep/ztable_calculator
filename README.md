@@ -10,6 +10,8 @@ O código proporcionará uma consulta mais direta e altamente precisa da probabi
 
 **1ª Linha** : Segunda casa decimal do valor do score
 
+Z = 1,66 por exemplo, ligando a primeira coluna com a primeira linha teremos a probabilidade.
+
 ![image](https://github.com/user-attachments/assets/a1a240d4-2083-4988-b6a6-3f86a6cd4385)
 
 --------------------
