@@ -1,8 +1,8 @@
 # Z Table Calculator 🧮
 
-Ferramenta para apresentar a probabilidade de um Z Score.
+Este repositório trás um código que proporciona uma consulta mais direta e altamente precisa da probabilidade de um Z Score desejado.
 
-As tabelas a seguir apresentam as de probabilidades em relação ao valor de um Z Score positivo e negativo.
+📊 As tabelas a seguir apresentam as de probabilidades em relação ao valor de um Z Score positivo e negativo. 
 
 **1ª Coluna** : O valor do score
 
@@ -12,13 +12,13 @@ As tabelas a seguir apresentam as de probabilidades em relação ao valor de um 
 
 --------------------
 
-*Demonstração da probabilidade do* **Z Score 0,56**
+📱 *Demonstração do código* 
 
-![image](https://github.com/user-attachments/assets/b6676318-2ddc-488a-8f47-0332d57d57a4)
-
-Deste modo, o código neste repositório trás uma consulta mais direta e altamente precisa do Z Score desejado.
+![image](https://github.com/user-attachments/assets/f6962343-9234-4f9f-89da-50d65b2ae2d8)
 
 
-## Fonte:
+
+
+## 🌐 Fontes: 
 
 https://www.ztable.net/
