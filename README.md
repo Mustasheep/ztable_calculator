@@ -8,7 +8,7 @@ O código proporcionará uma consulta mais direta e altamente precisa da probabi
 
 **1ª Coluna** : O valor do score
 
-**1ª Linha** : Os decimais do valor do score
+**1ª Linha** : Segunda casa decimal do valor do score
 
 ![image](https://github.com/user-attachments/assets/a1a240d4-2083-4988-b6a6-3f86a6cd4385)
 
