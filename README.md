@@ -1,6 +1,8 @@
 # Z Table Calculator 🧮
 
-Este repositório trás um código que proporciona uma consulta mais direta e altamente precisa da probabilidade de um Z Score desejado.
+Para facilitar meus estudos na disciplina "Análise de dados exploratória" durante minha graduação de Ciência de Dados pelo Cruzeiro do Sul Virtual, desenvolvi o código a seguir:
+
+O código proporcionará uma consulta mais direta e altamente precisa da probabilidade de um Z Score desejado.
 
 📊 As tabelas a seguir apresentam as probabilidades em relação ao valor de um Z Score positivo e negativo. 
 
@@ -17,7 +19,7 @@ Este repositório trás um código que proporciona uma consulta mais direta e al
 ![image](https://github.com/user-attachments/assets/f6962343-9234-4f9f-89da-50d65b2ae2d8)
 
 
-
+Vale ressaltar que estou no início de minha jornada, tanto como programador em python quanto em análise desses dados, onde busco aperfeiçomento constante.
 
 ## 🌐 Fontes: 
 
