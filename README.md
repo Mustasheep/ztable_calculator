@@ -2,7 +2,7 @@
 
 Este repositório trás um código que proporciona uma consulta mais direta e altamente precisa da probabilidade de um Z Score desejado.
 
-📊 As tabelas a seguir apresentam as de probabilidades em relação ao valor de um Z Score positivo e negativo. 
+📊 As tabelas a seguir apresentam as probabilidades em relação ao valor de um Z Score positivo e negativo. 
 
 **1ª Coluna** : O valor do score
 
