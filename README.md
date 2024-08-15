@@ -21,7 +21,6 @@ Z = 1,66 por exemplo, ligando a primeira coluna com a primeira linha teremos a p
 ![image](https://github.com/user-attachments/assets/f6962343-9234-4f9f-89da-50d65b2ae2d8)
 
 
-Vale ressaltar que estou no início de minha jornada, tanto como programador em python quanto em análise de dados, onde busco aperfeiçoamento constante.
 
 ## 🌐 Fontes: 
 
