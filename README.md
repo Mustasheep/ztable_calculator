@@ -26,7 +26,7 @@ Z = 1,66 por exemplo, ligando a primeira coluna com a primeira linha teremos a p
 1. Abra o arquivo "zscore_calculator.py" neste repositório.
 2. Copie o código.
 3. Abra uma nova aba e digite na url "colab.new" (talvez exija autenticação)
-4. Cole o código e execute.
+4. Cole o código e execute (botão ▶️).
 
 *obs.: Iniciar o Colab pela primeira vez, ele precisará iniciar uma máquina virtual (VM) para você, demorando alguns segundos.*
 
